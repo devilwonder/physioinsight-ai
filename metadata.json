@@ -1,0 +1,5 @@
+{
+  "name": "PhysioInsight AI",
+  "description": "An intelligent physiotherapy feedback analysis system. It collects patient feedback and uses Gemini AI to extract sentiment, key themes, and actionable clinical insights for therapists.",
+  "requestFramePermissions": []
+}
